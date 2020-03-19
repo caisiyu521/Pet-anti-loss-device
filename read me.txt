@@ -1,0 +1,27 @@
+MPU6050：
+	PA6 	SCL
+	PA7		SDA
+	
+	
+调试串口：(ttl)
+	PA2		RXD
+	PA3		TXD
+	
+GPS：
+	PA9 	RXD
+	PA10	TXD
+	不接	PCN
+	
+DHT11:
+	PB0		DQ
+	
+GPRS 模块：
+	PB10			RXD
+	PB11			TXD
+	5V				模块5V
+	GND				模块GND
+	单片机3.3		MCU_VCC
+	单片机GND		MCU_GND
+
+
+
